@@ -10,7 +10,7 @@ function App() {
     <div className="container">
       <div className="row header">
         <p style={{width: '100%'}}>
-          <h1 className="text-center">Estudo de Opções no Sistema Diamente do Leo Dutra</h1>
+          <h1 className="text-center">Estudo de Opções</h1>
         </p>
       </div>
 
